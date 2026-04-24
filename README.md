@@ -1,10 +1,29 @@
-Here is my deployed project -
-the-pink-apron.netlify.app
+the pink apron
 
-## Run Locally
+It is a recipe extractor that extracts the recipe when the Youtube URL is pasted
+## Features
 
-**Prerequisites:**  Node.js
+- Extracts the recipe from the youtube video.
+- filters and save the recipe and make a personalised cookbook.
+- can share your own personalised recipes on it too.
+- AI-powered responses using Gemini API
+- Responsive UI
 
+## Demo
+[ / live link ](https://the-pink-apron.netlify.app/)
+
+## Tech Stack
+
+- Frontend: React / Vite / HTML / CSS
+- Backend: Node.js / Express
+- API: Gemini API
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/project-name.git
+cd project-name
+npm install
 
 1. Install dependencies:
    `npm install`
